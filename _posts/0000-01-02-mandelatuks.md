@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+       "school is the key" mandela
 Use the left arrow to go back!
